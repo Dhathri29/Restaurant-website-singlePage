@@ -1,0 +1,23 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "restaurant website design",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhathri29/Restaurant-website-singlePage.git"
+  },
+  "author": "dhathri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhathri29/Restaurant-website-singlePage/issues"
+  },
+  "homepage": "https://github.com/Dhathri29/Restaurant-website-singlePage#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  }
+}
